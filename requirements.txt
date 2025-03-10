@@ -1,0 +1,9 @@
+# requirements.txt
+selenium
+pandas
+nltk
+gensim
+matplotlib
+seaborn
+pyLDAvis
+numpy
