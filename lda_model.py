@@ -1,4 +1,3 @@
-# lda_model.py
 import pandas as pd
 import numpy as np
 from gensim import corpora
